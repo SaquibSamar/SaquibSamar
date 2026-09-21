@@ -1,6 +1,6 @@
 <h1 align="center">SAQUIB SAMAR</span> </h1>
 <p align="center">
-  🎓 B.Tech CSE (3rd Year) Student <br>
+  🎓 B.Tech CSE Student <br>
   Web Developer | Software Developer <br>
 </p>
 I'm a Computer Science Engineering student with a strong interest in <b>Web Development</b>, <b>Software Development</b>, and <b>Cybersecurity</b>.  
